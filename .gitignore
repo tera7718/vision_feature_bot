@@ -1,9 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,ros
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,ros
 
-.png
-.jpg
-.jpeg
+*.png
+*.jpg
+*.jpeg
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
